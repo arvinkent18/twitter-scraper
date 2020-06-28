@@ -1,0 +1,23 @@
+{
+  "name": "twitter-scraper",
+  "version": "1.0.0",
+  "description": "Basic Twitter Scraper ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arvinkent18/twitter-scraper.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Scraping"
+  ],
+  "author": "Arvin Kent S. Lazaga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arvinkent18/twitter-scraper/issues"
+  },
+  "homepage": "https://github.com/arvinkent18/twitter-scraper#readme"
+}
